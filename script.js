@@ -62,6 +62,8 @@ const fetchRequest = async (page) => {
 //     console.log(err);
 //   }
 // };
+
+//общая функция
 const getTitles = async () => {
   let arr = [];
 
